@@ -1,1 +1,2 @@
-Failide arv kokku:  5
+Tähemärkide arv:  5
+Ridade arv:  5
