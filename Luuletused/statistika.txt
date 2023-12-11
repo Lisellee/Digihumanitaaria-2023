@@ -1,1 +1,4 @@
-Failide arv kokku:  5
+Luuletuste tähemärkide arv:  [['talveunes.txt', 462], ['talveoo.txt', 282], ['lumitulimaha.txt', 251], ['2advent.txt', 139], ['talvineohtu.txt', 104]]
+Luuletuste ridade arv:  [['talveunes.txt', 16], ['lumitulimaha.txt', 14], ['talveoo.txt', 11], ['2advent.txt', 7], ['talvineohtu.txt', 6]]
+Kõige pikem luuletus tähemärkide järgi:  ['talveunes.txt', 462]
+Kõige lühem luuletus ridade järgi:  ['talvineohtu.txt', 6]
