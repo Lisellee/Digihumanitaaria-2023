@@ -1,2 +1,2 @@
-Tähemärkide arv:  5
-Ridade arv:  5
+Tähemärkide arv:  [['talveunes.txt', 462], ['talveoo.txt', 282], ['lumitulimaha.txt', 251], ['2advent.txt', 139], ['talvineohtu.txt', 104]]
+Ridade arv:  [['talveunes.txt', 16], ['lumitulimaha.txt', 14], ['talveoo.txt', 11], ['2advent.txt', 7], ['talvineohtu.txt', 6]]
